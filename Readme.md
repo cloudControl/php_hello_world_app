@@ -1,4 +1,6 @@
 php_hello_world_app
 ======================
 
-This is a simple "Hello World" in PHP for the cloudControl PaaS https://www.cloudcontrol.com
+A simple "Hello World" in PHP for the cloudControl PaaS Quickstart
+
+https://www.cloudcontrol.com
